@@ -43,8 +43,8 @@ To get started, follow these steps to set up your environment:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/stability-demo.git
-   cd stability-demo
+   git clone https://github.com/grant-king/stability_demo.git
+   cd stability_demo
    ```
 
 2. Create a virtual environment and activate it:
@@ -112,7 +112,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## License
 
-This project is licensed under The Unlicense. See the LICENSE file for more information.
+This project is licensed under the Unlicense. See the LICENSE file for more information.
 
 ## Contact
 
