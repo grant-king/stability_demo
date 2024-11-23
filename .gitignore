@@ -1,2 +1,7 @@
 
 .env
+/.gradio
+/covered_images
+/cropped_images
+/generated_images
+/generated_videos
